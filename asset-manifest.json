@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/griddler/static/css/main.07300e31.chunk.css",
+    "main.js": "/griddler/static/js/main.83d49aac.chunk.js",
+    "runtime-main.js": "/griddler/static/js/runtime-main.be1642f8.js",
+    "static/js/2.a7c5f156.chunk.js": "/griddler/static/js/2.a7c5f156.chunk.js",
+    "index.html": "/griddler/index.html",
+    "static/js/2.a7c5f156.chunk.js.LICENSE.txt": "/griddler/static/js/2.a7c5f156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be1642f8.js",
+    "static/js/2.a7c5f156.chunk.js",
+    "static/css/main.07300e31.chunk.css",
+    "static/js/main.83d49aac.chunk.js"
+  ]
+}
